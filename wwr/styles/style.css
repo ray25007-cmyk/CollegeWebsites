@@ -33,12 +33,12 @@ nav a:hover{
 }
 .book, .join{
     background-color: #102d37;
-    color:#fbe072;
+    color:#e3f2fd;
     text-decoration: none;
 }
 .book:hover, .join:hover{
     background-color:#1f586b ;
-    color: #ffeda3;
+    color: white;
 }
 #background{
 background-color: white;
@@ -47,10 +47,10 @@ background-color: white;
 background-color: #1f586b;
 }
 .msg h2{
-    color: black;
+    color: #e3f2fd;
 }
 .msg p{
-    color:black;
+    color:white;
 }
 footer{
     background-color: #102d37;
